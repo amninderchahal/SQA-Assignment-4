@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1009]C:\Users\Amninder Chahal\Documents\Visual Studio 2015\Projects\Assignment_4\Assignment_4.Test\bin\Debug\Assignment_4.Test.dll</TopNode>
+  <SelectedNode>[0-1007]Assignment_4.Test.TriangleSolverTest.TriangleTest</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1009]C:\Users\Amninder Chahal\Documents\Visual Studio 2015\Projects\Assignment_4\Assignment_4.Test\bin\Debug\Assignment_4.Test.dll" Expanded="true" />
+    <Node UniqueName="[0-1010]Assignment_4" Expanded="true" />
+    <Node UniqueName="[0-1011]Assignment_4.Test" Expanded="true" />
+    <Node UniqueName="[0-1000]Assignment_4.Test.TriangleSolverTest" Expanded="true" />
+  </Nodes>
+</VisualState>
